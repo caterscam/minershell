@@ -65,7 +65,7 @@
       "self-select": null
     }
   ],
-  "print-time": 60,
+  "print-time": 1,
   "health-print-time": 60,
   "retries": 5,
   "retry-pause": 5,
