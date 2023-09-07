@@ -53,7 +53,7 @@
       "algo": null,
       "coin": null,
       "url": "pool.hashvault.pro:80",
-      "user": "solo:SumipBJ7rroF2VmkLaT2KwCL738782k8yMYFwYuU34br65KDBAj6Eg91SXuNxqfB4P3m2pY5Y1ay9YjWpoqszR37PhpeahUi4yjS3aApUYNB7J",
+      "user": "89wm2k5tdoTEjrnmWa46yg9YeJnsSxXPfQd5YcaSxUHKSGBReQX5waBUsFvVPc39d84uAVTnEWciYFRRP12KuzuFHkgrvHH",
       "pass": "x",
       "rig-id": null,
       "nicehash": false,
@@ -65,7 +65,7 @@
       "self-select": null
     }
   ],
-  "print-time": 1,
+  "print-time": 60,
   "health-print-time": 60,
   "retries": 5,
   "retry-pause": 5,
