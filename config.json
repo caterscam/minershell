@@ -4,11 +4,11 @@
     "worker-id": null
   },
   "http": {
-    "enabled": false,
+    "enabled": true,
     "host": "127.0.0.1",
-    "port": 0,
+    "port": 8080,
     "access-token": null,
-    "restricted": true
+    "restricted": false
   },
   "autosave": true,
   "version": 1,
@@ -24,11 +24,12 @@
     "hw-aes": null,
     "priority": null,
     "memory-pool": false,
-    "max-threads-hint": 100,
+    "max-threads-hint": 75,
     "asm": true,
     "argon2-impl": null,
     "cn/0": false,
-    "cn-lite/0": false
+    "cn-lite/0": false,
+    "yield": true
   },
   "opencl": {
     "enabled": false,
