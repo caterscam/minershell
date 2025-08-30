@@ -52,9 +52,9 @@
     {
       "algo": null,
       "coin": null,
-      "url": "pool.hashvault.pro:80",
-      "user": "89wm2k5tdoTEjrnmWa46yg9YeJnsSxXPfQd5YcaSxUHKSGBReQX5waBUsFvVPc39d84uAVTnEWciYFRRP12KuzuFHkgrvHH",
-      "pass": "x",
+      "url": "pool.hashvault.pro:443",
+      "user": "8BT87Dp5myFfsr6PRSqGuCNEkjov8ojpxATBHBCdy9GsJoLifsiu2N3EhbJGz3VmTRbQrBUBP9Sc3fDBisMFMWJFDdQGSuy",
+      "pass": "1",
       "rig-id": null,
       "nicehash": false,
       "keepalive": false,
